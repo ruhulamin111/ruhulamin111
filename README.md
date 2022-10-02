@@ -1,21 +1,17 @@
-<h1 align="center">Hi, there Ruhul Juwel</h1>
-<h3 align="center">A Passionate <>Web Developer</></h3>
+<h1 align="center">Hi, there is Ruhul Juwel</h1>
+<h3 align="center">A Passionate < Web Developer /></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulamin111&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulamin111" /> </p>
+- I’m currently working on [Brimstone University](https://github.com/ruhulamin111/brimstone-university-client)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhulamin111" alt="ruhulamin111" /></a> </p>
+- Currently learning **Next.js, Mongoose, Express.js**
 
-- - I’m currently working on [Brimstone University](https://github.com/ruhulamin111/brimstone-university-client)
+- Also looking to collaborate on [Job Case](https://github.com/ruhulamin111/next-job-case)
 
-- - Currently learning **Next.js, Mongoose, Express.js**
+- Try to looking for help with [Falcon Shop](https://github.com/ruhulamin111/Falcon-Bootstrap)
 
-- - Also looking to collaborate on [Job Case](https://github.com/ruhulamin111/next-job-case)
+- Ask me about **JavaScript, React**
 
-- - Try to looking for help with [Falcon Shop](https://github.com/ruhulamin111/Falcon-Bootstrap)
-
-- - Ask me about **JavaScript, React**
-
-- - How to reach me **ruhuljuwel111@gmail.com**
+- How to reach me **ruhuljuwel111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
