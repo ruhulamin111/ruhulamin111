@@ -1,6 +1,6 @@
 <h1 align="center">Hi, there is Ruhul Juwel</h1>
 <h3 align="center">A Passionate < Web Developer /></h3>
-<img align="right" width="600" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qc6d1ifpvvmcvo0la2miau9k81igmmfkn2mr2rgs&rid=giphy.gif&ct=g" alt="" />
+<img align="right" width="500" height="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qc6d1ifpvvmcvo0la2miau9k81igmmfkn2mr2rgs&rid=giphy.gif&ct=g" alt="" />
 
 - I’m currently working on [Brimstone University](https://github.com/ruhulamin111/brimstone-university-client)
 
